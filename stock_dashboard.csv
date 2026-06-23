@@ -1,0 +1,7 @@
+Drug,Stock,Reorder_Level,Status
+Metformin,450,200,OK
+Aspirin,80,150,LOW_STOCK
+Insulin,320,300,OK
+Atorvastatin,50,100,LOW_STOCK
+Amoxicillin,600,250,OK
+Warfarin,120,200,LOW_STOCK
